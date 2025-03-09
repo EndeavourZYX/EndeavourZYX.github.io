@@ -55,4 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - Now*, [National Center of Technology Innovation for EDA](https://www.nctieda.com/), Nanjing, China.
+- *2023.07 - 2023.09*, [Institue of Electronic Design Automation, Peking University](http://pkueda.org.cn/), Wuxi, China.
+- *2021.08 - 2022.05*, [Tencent AI Lab](https://ailab.tencent.com/), Shenzhen, China.
+- *2020.10 - 2021.06*, [Baidu Visual Technology Department](https://vis.baidu.com/), Shenzhen, China.
