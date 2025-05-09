@@ -57,12 +57,6 @@ img src='images/DeepLayout-ICML2025.png' alt="sym" width="100%"></div></div>
 
 **Yuxiang Zhao**, zhuomin chai, Xun Jiang, Qiang Xu, Runsheng Wang, Yibo Lin
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
 <div class="badge">ICML 2025</div><
 img src='images/DeepLayout-ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,6 +67,8 @@ img src='images/DeepLayout-ICML2025.png' alt="sym" width="100%"></div></div>
 
 </div>
 </div>
+
+
 
 
 # 🎖 Honors and Awards
