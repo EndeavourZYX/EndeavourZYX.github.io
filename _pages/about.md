@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate at Peking University, advised by Professor Yibo Lin. Previously, I obtained my Master's degree in 2022 from the University of Chinese Academy of Sciences (UCAS), where I was co-advised by Professors Shifeng Chen, Chao Dong, and Yu Qiao. My research focuses on AI-driven methodologies for physical design automation.
+I am currently a third-year Ph.D. candidate at Peking University, advised by Professor [Yibo Lin](http://yibolin.com/). Previously, I obtained my Master's degree in 2022 from the University of Chinese Academy of Sciences, ShenZhen Institute of Advanced Technology, MMLab, where I was co-advised by Professors [Shifeng Chen](https://people.ucas.ac.cn/~sfchen?language=en), [Chao Dong](https://xpixel.group/2010/01/20/chaodong.html), and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). My currently research insterests lie on AI-driven methodologies for physical design automation.
 
 
 # 🔥 News
@@ -203,13 +203,8 @@ Baseline for Traffic Anomaly Detection](https://endeavourzyx.github.io/)
 
 
 
-
-
-
-
-
 # 🎖 Honors and Awards
-- *2022.11* &nbsp; Champion of EDAthon programming contest. 
+- *2022.11* &nbsp; Champion of EDAthon 2022 programming contest. 
 - *2022.06* &nbsp; Outstanding Student Award of UCAS. 
 - *2022.06* &nbsp; Outstanding Students of ShenZhen Institute of Advanced Technology. 
 
