@@ -21,24 +21,24 @@ I am currently a third-year Ph.D. candidate at Peking University, advised by Pro
 
 
 # 🔥 News
-- *2025.05*: &nbsp; Our paper DeepLayout is accepted by ICML 2025. 
+- *2025.05*: &nbsp; Our paper *DeepLayout* is accepted by ICML 2025. 
 
-- *2024.11*: &nbsp; Our paper PDNNet is accepted by TCAD. 
-- *2024.08*: &nbsp; Our paper Large Circuit Model is accepted by Science China.
-- *2024.02*: &nbsp; Our paper CircuitNet2.0 is accepted by ICLR 2024. 
-- *2024.01*: &nbsp; Our paper PowPrediCT is accepted by ICLR 2024.
+- *2024.11*: &nbsp; Our paper *PDNNet* is accepted by TCAD. 
+- *2024.08*: &nbsp; Our paper *Large Circuit Model* is accepted by Science China.
+- *2024.02*: &nbsp; Our paper *CircuitNet2.0* is accepted by ICLR 2024. 
+- *2024.01*: &nbsp; Our paper *PowPrediCT* is accepted by ICLR 2024.
 
 - *2023.08*: &nbsp; Our paper *Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms* is accepted by ICCAD 2023. 
-- *2023.05*: &nbsp; Our paper CircuitNet is accepted by TCAD. 
-- *2023.03*: &nbsp; Our paper HybridNet is accepted by ISEDA 2023. 
+- *2023.05*: &nbsp; Our paper *CircuitNet* is accepted by TCAD. 
+- *2023.03*: &nbsp; Our paper *HybridNet* is accepted by ISEDA 2023. 
 - *2023.01*: &nbsp; Our paper *Rethinking 3D cost aggregation in stereo matchin* is accepted by PRL. 
 
 - *2022.11* &nbsp; Winner in EDAthon 2022 programming contest. 
-- *2022.10*: &nbsp; Our paper CircuitNet is accepted by Science China. 
+- *2022.10*: &nbsp; Our paper *CircuitNet* is accepted by Science China. 
 - *2022.09* &nbsp; Joined CECA@PKU as research assiatant. Started working on AI4EDA. 
 - *2022.06* &nbsp; Graduated with outstanding student award of UCAS. 
 
-- *2021.07*: &nbsp; Our paper DSANet is accepted by ACMMM 2021. 
+- *2021.07*: &nbsp; Our paper *DSANet* is accepted by ACMMM 2021. 
 - *2021.05*: &nbsp; Our paper *Good Practices and a Strong Baseline for Traffic Anomaly Detection* is accepted by CVPRW 2021. 
 - *2021.04*: &nbsp; Winner in the Traffic Anomaly Detection Track of the CVPR 2021 AI CITY CHALLENGE.
 
@@ -54,6 +54,7 @@ I am currently a third-year Ph.D. candidate at Peking University, advised by Pro
 <div class="badge">ICML 2025</div><img src='images/DeepLayout-ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DeepLayout: Learning Neural Representations of Circuit Placement Layout](https://endeavourzyx.github.io/)
+
 **Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang, Yibo Lin
 </div>
 </div>
@@ -65,6 +66,7 @@ I am currently a third-year Ph.D. candidate at Peking University, advised by Pro
 <div class="badge">TCAD</div><img src='images/PDNNet-TCAD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://endeavourzyx.github.io/)
+
 **Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Yibo Lin, Runsheng Wang, Ru Huang
 </div>
 </div>
@@ -73,7 +75,7 @@ I am currently a third-year Ph.D. candidate at Peking University, advised by Pro
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Science China</div><img src='iimages/LCM-ScienceChina.png' alt="sym" width="100%"></div></div>
+<div class="badge">Science China</div><img src='images/LCM-ScienceChina.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [The Dawn of AI-Native EDA: Opportunities and
 Challenges of Large Circuit Models](https://endeavourzyx.github.io/)
@@ -89,6 +91,7 @@ Challenges of Large Circuit Models](https://endeavourzyx.github.io/)
 <div class="badge">ICLR 2024</div><img src='images/Circuitnet2.0-ICLR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environmen](https://endeavourzyx.github.io/)
+
 Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
 </div>
 </div>
@@ -100,6 +103,7 @@ Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
 <div class="badge">DAC 2024</div><img src='images/PowPrediCT-DAC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning](https://endeavourzyx.github.io/)
+
 Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
 </div>
 </div>
@@ -112,6 +116,7 @@ Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runs
 <div class='paper-box-text' markdown="1">
 [Invited Paper: Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and
 Heterogeneous Platforms](https://endeavourzyx.github.io/)
+
 Xun Jiang, Zizheng Guo, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
 </div>
 </div>
@@ -125,6 +130,7 @@ Xun Jiang, Zizheng Guo, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang,
 [CircuitNet: An Open-
 Source Dataset for Machine Learning in VLSI CAD Applications With Improved Domain-Specific Evaluation
 Metric and Learning Strategies](https://endeavourzyx.github.io/)
+
 Zhuomin Chai, **Yuxiang Zhao**, Wei Liu, Yibo Lin, Runsheng Wang, Ru Huang
 </div>
 </div>
@@ -136,6 +142,7 @@ Zhuomin Chai, **Yuxiang Zhao**, Wei Liu, Yibo Lin, Runsheng Wang, Ru Huang
 <div class="badge">Pattern Recognition Letters</div><img src='images/3D-PRL2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Rethinking 3D cost aggregation in stereo matching](https://endeavourzyx.github.io/)
+
 Wanshui Gan, Wenhao Wu, Shifeng Chen, **Yuxiang Zhao**, and Pak Kin Wong
 </div>
 </div>
@@ -148,6 +155,7 @@ Wanshui Gan, Wenhao Wu, Shifeng Chen, **Yuxiang Zhao**, and Pak Kin Wong
 <div class='paper-box-text' markdown="1">
 [CircuitNet: An Open-
 Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://endeavourzyx.github.io/)
+
 Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Wei Liu, Runsheng Wang, Ru Huang
 </div>
 </div>
@@ -160,6 +168,7 @@ Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Wei Liu, Runsheng Wang, Ru Huang
 <div class='paper-box-text' markdown="1">
 [HybridNet: Dual-Branch Fusion of
 Geometrical and Topological Views for VLSI Congestion Prediction (Extended Abstract)](https://endeavourzyx.github.io/)
+
 **Yuxiang Zhao**, Zhuomin Chai, Yibo Lin, Runsheng Wang,  Ru Huang
 </div>
 </div>
@@ -172,6 +181,7 @@ Geometrical and Topological Views for VLSI Congestion Prediction (Extended Abstr
 <div class='paper-box-text' markdown="1">
 [DSANet: Dynamic Segment Aggregation Network for Video-Level Repre-
 sentation Learning](https://endeavourzyx.github.io/)
+
 Wenhao Wu, **Yuxiang Zhao**, Yanwu Xu, Xiao Tan, Dongliang He, Zhikang Zou, Jin Ye, Yingying Li, Mingde
 Yao, Zichao Dong, Yifeng Shi
 </div>
@@ -185,6 +195,7 @@ Yao, Zichao Dong, Yifeng Shi
 <div class='paper-box-text' markdown="1">
 [Good Practices and a Strong
 Baseline for Traffic Anomaly Detection](https://endeavourzyx.github.io/)
+
 **Yuxiang Zhao**, Wenhao Wu, Yue He, Yingying Li, Xiao Tan, Shifeng Chen
 </div>
 </div>
