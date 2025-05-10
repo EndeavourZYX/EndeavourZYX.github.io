@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Yuxiang Zhao"
 description              : "Ph.D. candidate at School of Integrated Circuits, Peking University. Focuing on AI4EDA."
 repository               : "endeavourzyx.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yuxiang Zhao"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Peking University"
   location         : "Beijing, China"
