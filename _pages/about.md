@@ -182,7 +182,7 @@ Geometrical and Topological Views for VLSI Congestion Prediction (Extended Abstr
 [DSANet: Dynamic Segment Aggregation Network for Video-Level Repre-
 sentation Learning](https://endeavourzyx.github.io/)
 
-Wenhao Wu, **Yuxiang Zhao**, Yanwu Xu, Xiao Tan, Dongliang He, Zhikang Zou, Jin Ye, Yingying Li, Mingde
+Wenhao Wu*, **Yuxiang Zhao***, Yanwu Xu, Xiao Tan, Dongliang He, Zhikang Zou, Jin Ye, Yingying Li, Mingde
 Yao, Zichao Dong, Yifeng Shi
 </div>
 </div>
@@ -196,7 +196,7 @@ Yao, Zichao Dong, Yifeng Shi
 [Good Practices and a Strong
 Baseline for Traffic Anomaly Detection](https://endeavourzyx.github.io/)
 
-**Yuxiang Zhao**, Wenhao Wu, Yue He, Yingying Li, Xiao Tan, Shifeng Chen
+**Yuxiang Zhao***, Wenhao Wu*, Yue He, Yingying Li, Xiao Tan, Shifeng Chen
 </div>
 </div>
 
