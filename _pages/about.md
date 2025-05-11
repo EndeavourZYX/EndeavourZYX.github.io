@@ -120,7 +120,7 @@ Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257v2)
 <div class='paper-box-text' markdown="1">
 [PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning](https://dl.acm.org/doi/abs/10.1145/3649329.3657349)
 
-* [preprint](https://dl.acm.org/doi/abs/10.1145/3649329.3657349)|  [code](https://github.com/Yufan-Du/PowPrediCT)
+* [paper](https://dl.acm.org/doi/abs/10.1145/3649329.3657349)\|  [code](https://github.com/Yufan-Du/PowPrediCT)
 * Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
 * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
 
@@ -136,7 +136,7 @@ Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257v2)
 [Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and
 Heterogeneous Platforms](https://ieeexplore.ieee.org/abstract/document/10323938)
 
-* [preprint](https://ieeexplore.ieee.org/abstract/document/10323938)| *Invited Paper*
+* [preprint](https://ieeexplore.ieee.org/abstract/document/10323938)\| *Invited Paper*
 * Xun Jiang, Zizheng Guo, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
 * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
 
@@ -154,7 +154,7 @@ Heterogeneous Platforms](https://ieeexplore.ieee.org/abstract/document/10323938)
 Source Dataset for Machine Learning in VLSI CAD Applications With Improved Domain-Specific Evaluation
 Metric and Learning Strategies](https://ieeexplore.ieee.org/document/10158384/)
 
-* [preprint](https://ieeexplore.ieee.org/document/10158384/)|  [project](https://circuitnet.github.io/) | [code](https://github.com/circuitnet/CircuitNet)
+* [preprint](https://ieeexplore.ieee.org/document/10158384/)\|  [project](https://circuitnet.github.io/) \| [code](https://github.com/circuitnet/CircuitNet)
 * Zhuomin Chai, **Yuxiang Zhao**, Wei Liu, Yibo Lin, Runsheng Wang, Ru Huang
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
 
@@ -185,7 +185,7 @@ Metric and Learning Strategies](https://ieeexplore.ieee.org/document/10158384/)
 [CircuitNet: An Open-
 Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://arxiv.org/abs/2208.01040)
 
-* [preprint](https://arxiv.org/abs/2208.01040) | [project](https://circuitnet.github.io/) | [code](https://github.com/circuitnet/CircuitNet)
+* [preprint](https://arxiv.org/abs/2208.01040) \| [project](https://circuitnet.github.io/) \| [code](https://github.com/circuitnet/CircuitNet)
 * Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Wei Liu, Runsheng Wang, Ru Huang
 * SCIENCE CHINA Information Sciences, Sep, 2022.
 
