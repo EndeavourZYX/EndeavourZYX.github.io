@@ -57,7 +57,10 @@ My currently research insterests lie in AI-driven methodologies for physical des
 <div class='paper-box-text' markdown="1">
 [DeepLayout: Learning Neural Representations of Circuit Placement Layout](https://endeavourzyx.github.io/)
 
-**Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang, Yibo Lin
+* accepted
+* **Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang, Yibo Lin
+* International Conference on Machine Learning (ICML), Vancouver, Canada, Jul 13-19, 2025.
+
 </div>
 </div>
 
@@ -69,7 +72,10 @@ My currently research insterests lie in AI-driven methodologies for physical des
 <div class='paper-box-text' markdown="1">
 [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://arxiv.org/abs/2403.18569)
 
-**Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Yibo Lin, Runsheng Wang, Ru Huang
+* [preprint](https://arxiv.org/abs/2403.18569)
+* **Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Yibo Lin, Runsheng Wang, Ru Huang
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+
 </div>
 </div>
 
@@ -82,7 +88,10 @@ My currently research insterests lie in AI-driven methodologies for physical des
 [The Dawn of AI-Native EDA: Opportunities and
 Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257v2)
 
-Many co-authors
+* [preprint](https://arxiv.org/abs/2403.07257v2)
+* Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu*, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, Yibo Lin, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, **Yuxiang Zhao**, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie
+* Science China Information Sciences, Sep, 2024.
+
 </div>
 </div>
 
@@ -95,7 +104,11 @@ Many co-authors
 <div class='paper-box-text' markdown="1">
 [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environmen](https://openreview.net/pdf?id=nMFSUjxMIl)
 
-Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
+
+* [preprint](https://openreview.net/pdf?id=nMFSUjxMIl)| [project](https://circuitnet.github.io/) | [code](https://github.com/circuitnet/CircuitNet)
+* Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
+* International Conference on Learning Representations (ICLR), Vienna, Austria, May 7-11, 2024.
+
 </div>
 </div>
 
@@ -107,7 +120,10 @@ Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
 <div class='paper-box-text' markdown="1">
 [PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning](https://dl.acm.org/doi/abs/10.1145/3649329.3657349)
 
-Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
+* [preprint](https://dl.acm.org/doi/abs/10.1145/3649329.3657349)|  [code](https://github.com/Yufan-Du/PowPrediCT)
+* Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
+* ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+
 </div>
 </div>
 
@@ -117,10 +133,14 @@ Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runs
 <div>
 <div class="badge">ICCAD 2023</div><img src='images/INVITED-ICCAD2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Invited Paper: Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and
+[Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and
 Heterogeneous Platforms](https://ieeexplore.ieee.org/abstract/document/10323938)
 
-Xun Jiang, Zizheng Guo, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
+* [preprint](https://ieeexplore.ieee.org/abstract/document/10323938)| *Invited Paper*
+* Xun Jiang, Zizheng Guo, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, Ru Huang
+* IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
+
+
 </div>
 </div>
 
@@ -134,7 +154,10 @@ Xun Jiang, Zizheng Guo, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang,
 Source Dataset for Machine Learning in VLSI CAD Applications With Improved Domain-Specific Evaluation
 Metric and Learning Strategies](https://ieeexplore.ieee.org/document/10158384/)
 
-Zhuomin Chai, **Yuxiang Zhao**, Wei Liu, Yibo Lin, Runsheng Wang, Ru Huang
+* [preprint](https://ieeexplore.ieee.org/document/10158384/)|  [project](https://circuitnet.github.io/) | [code](https://github.com/circuitnet/CircuitNet)
+* Zhuomin Chai, **Yuxiang Zhao**, Wei Liu, Yibo Lin, Runsheng Wang, Ru Huang
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
+
 </div>
 </div>
 
@@ -146,7 +169,10 @@ Zhuomin Chai, **Yuxiang Zhao**, Wei Liu, Yibo Lin, Runsheng Wang, Ru Huang
 <div class='paper-box-text' markdown="1">
 [Rethinking 3D cost aggregation in stereo matching](https://www.sciencedirect.com/science/article/abs/pii/S0167865523000417)
 
-Wanshui Gan, Wenhao Wu, Shifeng Chen, **Yuxiang Zhao**, and Pak Kin Wong
+* [preprint](https://www.sciencedirect.com/science/article/abs/pii/S0167865523000417)
+* Wanshui Gan, Wenhao Wu, Shifeng Chen, **Yuxiang Zhao**, and Pak Kin Wong
+* Pattern Recognition Letters (PRL), 2023
+
 </div>
 </div>
 
@@ -159,7 +185,10 @@ Wanshui Gan, Wenhao Wu, Shifeng Chen, **Yuxiang Zhao**, and Pak Kin Wong
 [CircuitNet: An Open-
 Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://arxiv.org/abs/2208.01040)
 
-Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Wei Liu, Runsheng Wang, Ru Huang
+* [preprint](https://arxiv.org/abs/2208.01040) | [project](https://circuitnet.github.io/) | [code](https://github.com/circuitnet/CircuitNet)
+* Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Wei Liu, Runsheng Wang, Ru Huang
+* SCIENCE CHINA Information Sciences, Sep, 2022.
+
 </div>
 </div>
 
@@ -172,7 +201,10 @@ Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Wei Liu, Runsheng Wang, Ru Huang
 [HybridNet: Dual-Branch Fusion of
 Geometrical and Topological Views for VLSI Congestion Prediction (Extended Abstract)](https://arxiv.org/abs/2305.05374)
 
-**Yuxiang Zhao**, Zhuomin Chai, Yibo Lin, Runsheng Wang,  Ru Huang
+* [preprint](https://arxiv.org/abs/2305.05374)
+* **Yuxiang Zhao**, Zhuomin Chai, Yibo Lin, Runsheng Wang,  Ru Huang
+* IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023.
+
 </div>
 </div>
 
@@ -185,8 +217,10 @@ Geometrical and Topological Views for VLSI Congestion Prediction (Extended Abstr
 [DSANet: Dynamic Segment Aggregation Network for Video-Level Repre-
 sentation Learning](https://arxiv.org/abs/2105.12085)
 
-Wenhao Wu*, **Yuxiang Zhao***, Yanwu Xu, Xiao Tan, Dongliang He, Zhikang Zou, Jin Ye, Yingying Li, Mingde
-Yao, Zichao Dong, Yifeng Shi
+* [preprint](https://arxiv.org/abs/2105.12085)
+* Wenhao Wu\*, **Yuxiang Zhao\***, Yanwu Xu, Xiao Tan, Dongliang He, Zhikang Zou, Jin Ye, Yingying Li, Mingde Yao, Zichao Dong, Yifeng Shi
+* ACM International Conference on Multimedia (ACMMM), Chengdu, China, Oct 20-24, 2021.
+
 </div>
 </div>
 
@@ -199,7 +233,12 @@ Yao, Zichao Dong, Yifeng Shi
 [Good Practices and a Strong
 Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)
 
-**Yuxiang Zhao***, Wenhao Wu*, Yue He, Yingying Li, Xiao Tan, Shifeng Chen
+
+* [preprint](https://arxiv.org/abs/2105.03827)
+* **Yuxiang Zhao\***, Wenhao Wu\*, Yue He, Yingying Li, Xiao Tan, Shifeng Chen
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Virtual event, Jun 23-27, 2021.
+
+
 </div>
 </div>
 
