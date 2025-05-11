@@ -105,9 +105,9 @@ Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257v2)
 [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environmen](https://openreview.net/pdf?id=nMFSUjxMIl)
 
 
-* [preprint](https://openreview.net/pdf?id=nMFSUjxMIl)| [project](https://circuitnet.github.io/) | [code](https://github.com/circuitnet/CircuitNet)
-* Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
-* International Conference on Learning Representations (ICLR), Vienna, Austria, May 7-11, 2024.
+- [preprint](https://openreview.net/pdf?id=nMFSUjxMIl) \| [project](https://circuitnet.github.io/) \| [code](https://github.com/circuitnet/CircuitNet)
+- Xun Jiang, Zhuomin Chai, **Yuxiang Zhao**, Yibo Lin, Runsheng Wang, and Ru Huang
+- International Conference on Learning Representations (ICLR), Vienna, Austria, May 7-11, 2024.
 
 </div>
 </div>
