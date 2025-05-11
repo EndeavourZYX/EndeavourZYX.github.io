@@ -289,3 +289,18 @@ Entrepreneurship Annual Conference (First Prize).
 - *2023.07 - 2023.09* &nbsp; [Institue of Electronic Design Automation, Peking University](http://pkueda.org.cn/), Wuxi, China.
 - *2021.08 - 2022.05* &nbsp; [Tencent AI Lab](https://ailab.tencent.com/), Shenzhen, China.
 - *2020.10 - 2021.06* &nbsp; [Baidu Visual Technology Department](https://vis.baidu.com/), Shenzhen, China.
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICML 2025</div><img src='images/DeepLayout-ICML2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DeepLayout: Learning Neural Representations of Circuit Placement Layout](https://endeavourzyx.github.io/)
+
+* accepted
+* **Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang, Yibo Lin
+* International Conference on Machine Learning (ICML), Vancouver, Canada, Jul 13-19, 2025.
+
+</div>
+</div>
