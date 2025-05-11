@@ -278,14 +278,14 @@ Entrepreneurship Annual Conference (First Prize).
 
 
 # 📖 Educations
-- *2022.09 - now*,  &nbsp; Peking Univiersity, China, Ph.D candidate of Ingergreted Circuit. 
-- *2019.09 - 2022.06*, &nbsp; University of Chinese Academy of Sciences, China, Master of control engerning. 
-- *2019.09 - 2022.06*, &nbsp; Shenzhen Institute of Advanced Technology, Chinese Academy of Science, China, Research Assistant. 
-- *2015.09 - 2019.06*, &nbsp; China University of Petroleum, China, Bachelor of Optoelectronic Information Science and Engineering. 
+- *2022.09 - now* &nbsp; Peking Univiersity, China, Ph.D candidate of Ingergreted Circuit. 
+- *2019.09 - 2022.06* &nbsp; University of Chinese Academy of Sciences, China, Master of control engerning. 
+- *2019.09 - 2022.06* &nbsp; Shenzhen Institute of Advanced Technology, Chinese Academy of Science, China, Research Assistant. 
+- *2015.09 - 2019.06* &nbsp; China University of Petroleum, China, Bachelor of Optoelectronic Information Science and Engineering. 
 
 
 # 💻 Internships
-- *2024.06 - Now*, [National Center of Technology Innovation for EDA](https://www.nctieda.com/), Nanjing, China.
-- *2023.07 - 2023.09*, [Institue of Electronic Design Automation, Peking University](http://pkueda.org.cn/), Wuxi, China.
-- *2021.08 - 2022.05*, [Tencent AI Lab](https://ailab.tencent.com/), Shenzhen, China.
-- *2020.10 - 2021.06*, [Baidu Visual Technology Department](https://vis.baidu.com/), Shenzhen, China.
+- *2024.06 - Now* &nbsp; [National Center of Technology Innovation for EDA](https://www.nctieda.com/), Nanjing, China.
+- *2023.07 - 2023.09* &nbsp; [Institue of Electronic Design Automation, Peking University](http://pkueda.org.cn/), Wuxi, China.
+- *2021.08 - 2022.05* &nbsp; [Tencent AI Lab](https://ailab.tencent.com/), Shenzhen, China.
+- *2020.10 - 2021.06* &nbsp; [Baidu Visual Technology Department](https://vis.baidu.com/), Shenzhen, China.
