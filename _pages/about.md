@@ -278,7 +278,7 @@ Entrepreneurship Annual Conference (First Prize).
 
 
 # 📖 Educations
-- *2022.09 - now* &nbsp; Peking Univiersity, China, Ph.D candidate of Ingergreted Circuit. 
+- *2022.09 - now* &nbsp; Peking University, China, Ph.D candidate of Ingergreted Circuit. 
 - *2019.09 - 2022.06* &nbsp; University of Chinese Academy of Sciences, China, Master of control engerning. 
 - *2019.09 - 2022.06* &nbsp; Shenzhen Institute of Advanced Technology, Chinese Academy of Science, China, Research Assistant. 
 - *2015.09 - 2019.06* &nbsp; China University of Petroleum, China, Bachelor of Optoelectronic Information Science and Engineering. 
