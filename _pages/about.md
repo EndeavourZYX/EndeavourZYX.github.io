@@ -59,6 +59,7 @@ My currently research insterests lie in AI-driven methodologies for physical des
 [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://endeavourzyx.github.io/)
 
 * accepted
+* Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, **Yuxiang Zhao**, Hefei Feng, Yinan Zhu, Gwok-Waa Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, Chenhao Xue, Ying Wang, Yibo Lin, Jun Yang, Ning Xu, Xi Wang and Qiang Xu
 * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
 
 </div>
