@@ -23,6 +23,7 @@ My currently research insterests lie in AI-driven methodologies for physical des
 
 
 # 🔥 News
+- *2025.07*: &nbsp; Our paper *MMCircuitEval* is accepted by ICCAD 2025. 
 - *2025.05*: &nbsp; Our paper *DeepLayout* is accepted by ICML 2025. 
 
 - *2024.11*: &nbsp; Our paper *PDNNet* is accepted by TCAD. 
@@ -53,9 +54,22 @@ My currently research insterests lie in AI-driven methodologies for physical des
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">ICCAD 2025</div><img src='images/MMeval_ICCAD2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://endeavourzyx.github.io/)
+
+* accepted
+* IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">ICML 2025</div><img src='images/DeepLayout-ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DeepLayout: Learning Neural Representations of Circuit Placement Layout](https://endeavourzyx.github.io/)
+[DeepLayout: Learning Neural Representations of Circuit Placement Layout](https://openreview.net/pdf?id=XAlUoJFFQR)
 
 * accepted
 * **Yuxiang Zhao**, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang, Yibo Lin
