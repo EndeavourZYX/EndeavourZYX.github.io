@@ -60,7 +60,7 @@ My currently research insterests lie in AI-driven methodologies for physical des
 [CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB)
 
 * accepted
-* Mingjun Wang and Yihan Wen and Yuntao Lu and Fengrui Liu and Yuxiang Zhao and Boyu Han and Jianan Mu and Yibo Lin and Runsheng Wang and Huawei Li and Bei Yu
+* Mingjun Wang and Yihan Wen and Yuntao Lu and Fengrui Liu and **Yuxiang Zhao** and Boyu Han and Jianan Mu and Yibo Lin and Runsheng Wang and Huawei Li and Bei Yu
 * International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026.
 
 </div>
@@ -276,10 +276,10 @@ Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)
 
 
 # 🎖 Honors and Awards
-- *2025.09* &nbsp; Peking University Merit Student. 
-- *2025.09* &nbsp; Peking University Taihang Elite Scholarship. 
+- *2025.09* &nbsp; Merit Student of Peking University. 
+- *2025.09* &nbsp; Taihang Elite Scholarship of Peking University. 
 - *2022.11* &nbsp; Champion of EDAthon 2022 programming contest. 
-- *2022.06* &nbsp; Outstanding Student Award of UCAS. 
+- *2022.06* &nbsp; Merit Student of UCAS. 
 - *2022.06* &nbsp; Outstanding Students of ShenZhen Institute of Advanced Technology. 
 
 - *2021.06* &nbsp; Champion of CVPR NVIDIA AI City Challenge Track4, Traffic Anomaly Detection.
