@@ -23,6 +23,7 @@ My currently research insterests lie in AI-driven methodologies for physical des
 
 
 # 🔥 News
+- *2026.01*: &nbsp; Our paper *CircuitNet3.0* is accepted by ICLR 2026. 
 - *2025.07*: &nbsp; Our paper *MMCircuitEval* is accepted by ICCAD 2025. 
 - *2025.05*: &nbsp; Our paper *DeepLayout* is accepted by ICML 2025. 
 
@@ -50,6 +51,20 @@ My currently research insterests lie in AI-driven methodologies for physical des
 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICLR 2026</div><img src='images/Circuitnet3.0-ICLR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB)
+
+* accepted
+* Mingjun Wang and Yihan Wen and Yuntao Lu and Fengrui Liu and Yuxiang Zhao and Boyu Han and Jianan Mu and Yibo Lin and Runsheng Wang and Huawei Li and Bei Yu
+* International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026.
+
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -261,6 +276,8 @@ Baseline for Traffic Anomaly Detection](https://arxiv.org/abs/2105.03827)
 
 
 # 🎖 Honors and Awards
+- *2025.09* &nbsp; Peking University Merit Student. 
+- *2025.09* &nbsp; Peking University Taihang Elite Scholarship. 
 - *2022.11* &nbsp; Champion of EDAthon 2022 programming contest. 
 - *2022.06* &nbsp; Outstanding Student Award of UCAS. 
 - *2022.06* &nbsp; Outstanding Students of ShenZhen Institute of Advanced Technology. 
