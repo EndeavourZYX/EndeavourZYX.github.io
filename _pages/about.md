@@ -51,6 +51,19 @@ My currently research insterests lie in AI-driven methodologies for physical des
 
 
 # 📝 Publications 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ISEDA 2026</div><img src='images/PowerCube-ISEDA2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PowerCube: A Formula-in-the-Loop Framework for Cross-Stage Power Map Prediction](https://endeavourzyx.github.io/)
+
+* accepted
+* **Yuxiang Zhao** and Jing Mai and Zishu Li and Haoyi Zhang and Jincheng Lou and Qing He and Runsheng Wang and Yibo Lin
+* IEEE/ACM International Symposium of EDA (ISEDA), Marina Bay Sands, Singapore, May 8-10, 2026.
+
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
