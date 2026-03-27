@@ -23,6 +23,7 @@ My currently research insterests lie in AI-driven methodologies for physical des
 
 
 # 🔥 News
+- *2026.03*: &nbsp; Our paper *PowerCube* is accepted by ISEDA 2026. 
 - *2026.01*: &nbsp; Our paper *CircuitNet3.0* is accepted by ICLR 2026. 
 - *2025.07*: &nbsp; Our paper *MMCircuitEval* is accepted by ICCAD 2025. 
 - *2025.05*: &nbsp; Our paper *DeepLayout* is accepted by ICML 2025. 
