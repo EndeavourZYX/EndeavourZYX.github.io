@@ -331,6 +331,7 @@ Entrepreneurship Annual Conference (First Prize).
 
 
 # 💻 Internships
+* *2026.06 - Now* &nbsp; [Cadence](https://www.cadence.com/), Shanghai, China.
 - *2024.06 - 2025.09* &nbsp; [National Center of Technology Innovation for EDA](https://www.nctieda.com/), Nanjing, China.
 - *2023.07 - 2023.09* &nbsp; [Institute of Electronic Design Automation, Peking University](http://pkueda.org.cn/), Wuxi, China.
 - *2021.08 - 2022.05* &nbsp; [Tencent AI Lab](https://ailab.tencent.com/), Shenzhen, China.
