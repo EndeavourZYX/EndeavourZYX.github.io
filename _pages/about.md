@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate at Peking University, advised by Professor [Yibo Lin](http://yibolin.com/). Previously, I obtained my Master's degree in 2022 from the University of Chinese Academy of Sciences, ShenZhen Institute of Advanced Technology, MMLab, where I was co-advised by Professors [Shifeng Chen](https://people.ucas.ac.cn/~sfchen?language=en), [Chao Dong](https://xpixel.group/2010/01/20/chaodong.html), and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). 
+I am currently a fourth-year Ph.D. candidate at Peking University, advised by Professor [Yibo Lin](http://yibolin.com/). Previously, I obtained my Master's degree in 2022 from the University of Chinese Academy of Sciences, ShenZhen Institute of Advanced Technology, MMLab, where I was co-advised by Professors [Shifeng Chen](https://people.ucas.ac.cn/~sfchen?language=en), [Chao Dong](https://xpixel.group/2010/01/20/chaodong.html), and [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao). 
 
 My currently research insterests lie in AI-driven methodologies for physical design automation.
 
